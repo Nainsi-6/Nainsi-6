@@ -1,7 +1,29 @@
-<!-- Soft Gradient Welcome Banner (matches image style) -->
+<!-- Your Welcome Header -->
 <div align="center" style="background: linear-gradient(90deg, #b993d6 0%, #8ca6db 100%); border-radius:20px; padding: 32px 16px; margin-bottom: 24px;">
   <h1 style="color:#333; font-size:2.6rem; margin:0;">✨ Welcome to my profile! ✨</h1>
 </div>
+
+<!-- Decorative SVG wave -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" alt="Decorative Wave" width="100%" style="max-height: 150px;" />
+</p>
+
+<!-- Your profile stats and content below -->
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,234&color=6A5ACD&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=flat-square" alt="Status" />
+</p>
+
+...
+Notes:
+The image is responsive and scaled to max height 150px, width 100% so it adjusts nicely on all screen sizes.
+
+You can change the height by adjusting max-height in the style attribute.
+
+Make sure this README file is in Markdown, and GitHub can render SVG images hosted on GitHub raw URLs perfectly.
+
+If you want me to integrate it directly into the last full README template I gave you, just say so and I’ll produce the complete updated file including this SVG decoration.
+
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,234&color=6A5ACD&style=flat-square" alt="Profile views" />
