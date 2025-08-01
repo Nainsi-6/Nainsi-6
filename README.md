@@ -5,10 +5,7 @@
 </p>
 
 <!-- Your profile stats and content below -->
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,234&color=6A5ACD&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=flat-square" alt="Status" />
-</p>
+
 
 
 
@@ -21,6 +18,7 @@
 
 ## 👋 Hi, I'm Nainsi Gupta
 
+---
 Passionate about coding and always learning new tech!  
 Final year student at **VIT Bhopal University**.
 
