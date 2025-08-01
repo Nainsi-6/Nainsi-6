@@ -1,17 +1,7 @@
-<!-- Colorful Gradient Header Banner -->
-<h1 align="center" style="
-  background: linear-gradient(90deg, #a4508b, #5f0a87);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-weight: 800;
-  font-size: 3rem;
-  padding: 10px 0;
-  margin-bottom: 10px;
-  border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(95, 10, 135, 0.5);
-  ">
-  ✨ Welcome to my profile! ✨
-</h1>
+<!-- Soft Gradient Welcome Banner (matches image style) -->
+<div align="center" style="background: linear-gradient(90deg, #b993d6 0%, #8ca6db 100%); border-radius:20px; padding: 32px 16px; margin-bottom: 24px;">
+  <h1 style="color:#333; font-size:2.6rem; margin:0;">✨ Welcome to my profile! ✨</h1>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,234&color=6A5ACD&style=flat-square" alt="Profile views" />
@@ -20,53 +10,79 @@
 
 ---
 
-<div align="center" style="background:#eee6f7; border-radius:12px; padding:15px; margin-bottom:25px; max-width:700px;">
-  
-### 👋 Hi, I'm <span style="color:#5f0a87; font-weight:700;">Nainsi Gupta</span>
+## 👋 Hi, I'm Nainsi Gupta
 
-Passionate about coding and always learning new tech! Currently a student at <b>VIT Bhopal University</b>.
-
-</div>
+Passionate about coding and always learning new tech!  
+Final year student at **VIT Bhopal University**.
 
 ---
 
-<div style="background:#f0f4ff; border-left: 6px solid #6a5acd; padding: 10px 20px; margin-bottom: 25px; border-radius:8px; max-width:700px;">
+<!-- About Me Block with Subtle Background -->
+<div style="background: #f6fafd; border-radius: 12px; padding: 12px 20px; margin-bottom: 20px;">
   
 ### 🚀 About Me
 - 🧑‍🎓 Final year B.Tech (CSE) student at VIT Bhopal (2022–2026)
-- 🔥 I love coding in <b style="color:#00599C;">C++</b>, <b style="color:#F7DF1E;">JavaScript</b>, <b style="color:#3776AB;">Python</b>
-- 📚 Learning more about full-stack development & machine learning every day
+- 🔥 I love coding in <b>C++</b>, <b>JavaScript</b>, <b>Python</b>
+- 📚 Always deepening my full-stack & ML knowledge
 
 </div>
 
 ---
 
+<!-- SKILLS & PROJECTS: Logos + Gradient Cards -->
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" height="38" />
+  <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" />
+  <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" />
+  <img title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" />
+  <img title="Node.js" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38" />
+  <img title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38" />
+  <img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" />
+  <img title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38" height="38" />
+  <img title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" height="38" />
+  <img title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" height="38" />
+  <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" />
+  <img title="Figma" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" height="38" />
 </p>
 
 ---
 
-<div style="background:#fff0f6; border-left: 6px solid #d6336c; padding: 10px 20px; margin-bottom: 25px; border-radius:8px; max-width:700px;">
+### 🧩 Projects
 
+<!-- Each project has logos of its main techs, matching your resume! -->
+- <b>NagarTrack</b>: Civic issue tracker with real-time features & ML analysis  
+  <img alt="MERN" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/-ML-FFB300?style=flat-square&logo=scikit-learn&logoColor=white" />
+
+- <b>CollabCampus</b>: Social platform for campus collab & NLP job scrape  
+  <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js" />
+  <img alt="NLP" src="https://img.shields.io/badge/-NLP-blueviolet?style=flat-square&logo=tensorflow" />
+
+- <b>Employee Management System</b>: Task, attendance, and performance management  
+  <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb" />
+
+---
+
+<!-- Color shadow block for Currently section -->
+<div style="background: #faffea; border-radius: 10px; border-left: 6px solid #9cd67c; padding: 14px 24px; margin-bottom: 20px;">
+  
 ### 🌱 Currently
-- Completed internship at <b>Bluestock Fintech</b> (Jan–Feb 2025): Built admin dashboards to manage IPOs  
-- Exploring: <b>Next.js</b>, advanced machine learning, and new JS frameworks
+- Completed internship at <b>Bluestock Fintech</b> (Jan–Feb 2025): Built and deployed admin dashboards to manage IPOs  
+- Exploring: <b>Next.js</b>, advanced machine learning, new JS frameworks
 
 </div>
 
 ---
 
-<div style="background:#f8fff7; border-left: 6px solid #28a745; padding: 10px 20px; margin-bottom: 25px; border-radius:8px; max-width:700px;">
+<!-- Achievements block with background and icon! -->
+<div style="background: #f2fdff; border-radius: 10px; border-left: 6px solid #40c3f7; padding: 14px 24px; margin-bottom: 20px;">
 
 ### 🌟 Achievements
 - 🏆 Next-Gen Thinker, Providence Leap Ideathon (innovative healthcare app idea)
@@ -74,17 +90,6 @@ Passionate about coding and always learning new tech! Currently a student at <b>
 - 💡 Completed #100DaysofCode & #365DaysofCode challenges
 
 </div>
-
----
-
-### 🧩 Projects
-
-- **NagarTrack**: Civic issue tracker platform with real-time and ML-based features  
-  ![React](https://img.shields.io/badge/-React-blue?logo=react)
-- **CollabCampus**: Social network platform for campus collaboration  
-  ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-- **Employee Management System**: Manages tasks, attendance, and performance  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
 
 ---
 
@@ -98,6 +103,7 @@ Passionate about coding and always learning new tech! Currently a student at <b>
 
 ---
 
+<!-- STATS: More colorful and rich -->
 <div align="center" style="max-width:720px; margin: auto;">
 
 <p>
