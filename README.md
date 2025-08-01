@@ -29,7 +29,6 @@ Passionate about coding and always learning new tech! Currently a student at **V
 ### 🚀 About Me
 - 🧑‍🎓 Final year B.Tech (CSE) student at VIT Bhopal (2022–2026)
 - 🔥 I love coding in **C++**, **JavaScript**, **Python**
-- ⚡ I build web apps using **React**, **Node.js**, **Next.js**, **MongoDB**
 - 📚 Learning more about full-stack development & machine learning every day
 
 ---
@@ -58,23 +57,12 @@ Passionate about coding and always learning new tech! Currently a student at **V
 - 🌏 Top 7% global rank on LeetCode, 500+ algorithm problems solved
 - 💡 Completed #100DaysofCode & #365DaysofCode challenges
 
----
 
-### 🧩 Projects
-
-- **NagarTrack**: Civic issue tracker platform with real-time and ML-based features  
-  ![React](https://img.shields.io/badge/-React-blue?logo=react)
-- **CollabCampus**: Social network platform for campus collaboration  
-  ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-- **Employee Management System**: Manages tasks, attendance, and performance  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-
----
 
 ### 📬 How to reach me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nainsi-gupta"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/nainsi-gupta-2015a0250/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:nainsigupta438@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail" /></a>
   <a href="https://github.com/Nainsi-6"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub" /></a>
 </p>
