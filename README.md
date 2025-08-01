@@ -18,11 +18,12 @@
 
 ## 👋 Hi, I'm Nainsi Gupta
 
----
+
 Passionate about coding and always learning new tech!  
 Final year student at **VIT Bhopal University**.
 
 
+---
 
 <!-- About Me Block with Subtle Background -->
 <div style="background: #f6fafd; border-radius: 12px; padding: 12px 20px; margin-bottom: 20px;">
