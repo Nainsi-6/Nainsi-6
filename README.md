@@ -1,7 +1,3 @@
-<!-- Your Welcome Header -->
-<div align="center" style="background: linear-gradient(90deg, #b993d6 0%, #8ca6db 100%); border-radius:20px; padding: 32px 16px; margin-bottom: 24px;">
-  <h1 style="color:#333; font-size:2.6rem; margin:0;">✨ Welcome to my profile! ✨</h1>
-</div>
 
 <!-- Decorative SVG wave -->
 <p align="center">
@@ -14,15 +10,6 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=flat-square" alt="Status" />
 </p>
 
-...
-Notes:
-The image is responsive and scaled to max height 150px, width 100% so it adjusts nicely on all screen sizes.
-
-You can change the height by adjusting max-height in the style attribute.
-
-Make sure this README file is in Markdown, and GitHub can render SVG images hosted on GitHub raw URLs perfectly.
-
-If you want me to integrate it directly into the last full README template I gave you, just say so and I’ll produce the complete updated file including this SVG decoration.
 
 
 <p align="center">
@@ -30,14 +17,14 @@ If you want me to integrate it directly into the last full README template I gav
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=flat-square" alt="Status" />
 </p>
 
----
+
 
 ## 👋 Hi, I'm Nainsi Gupta
 
 Passionate about coding and always learning new tech!  
 Final year student at **VIT Bhopal University**.
 
----
+
 
 <!-- About Me Block with Subtle Background -->
 <div style="background: #f6fafd; border-radius: 12px; padding: 12px 20px; margin-bottom: 20px;">
